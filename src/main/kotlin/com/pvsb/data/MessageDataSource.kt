@@ -1,0 +1,10 @@
+package com.pvsb.data
+
+import com.pvsb.data.model.Message
+
+interface MessageDataSource {
+
+    suspend fun getAllMessages(): List<Message>
+
+    suspend fun insertMessage(message: Message)
+}

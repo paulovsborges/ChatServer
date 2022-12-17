@@ -1,0 +1,1 @@
+rootProject.name = "com.pvsb.ktor_chat"
