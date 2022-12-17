@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/82162410/208246638-c44b283d-d794-4cac-b63c-448b357abcad.png)
 
-### If all goes okay, you can send messages from the same text field once a connection was stablished
+### If all goes okay, you can send messages from the same text field once a connection was established
 
 ### After that you can access the mongoDb running locally to see the messages registered
 
